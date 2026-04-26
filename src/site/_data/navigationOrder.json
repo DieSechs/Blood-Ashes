@@ -1,0 +1,198 @@
+{
+  "/": [
+    "Bienvenido",
+    "1. Compendio de Magia"
+  ],
+  "/1. Compendio de Magia": [
+    "1. Elementales",
+    "2. Recuperación",
+    "3. Status"
+  ],
+  "/1. Compendio de Magia/1. Elementales": [
+    "1. Singular",
+    "2. Área",
+    "3. Boosts"
+  ],
+  "/1. Compendio de Magia/1. Elementales/1. Singular": [
+    "1. Leve",
+    "1. Daño Leve Singular"
+  ],
+  "/1. Compendio de Magia/1. Elementales/1. Singular/1. Leve": [
+    "1. Kouha",
+    "10. Garu",
+    "2. Cleave Light",
+    "3. Zio",
+    "4. Agi",
+    "5. Bufu",
+    "6. Eiha",
+    "7. Frei",
+    "8. Shot",
+    "9. Psi"
+  ],
+  "/1. Compendio de Magia/1. Elementales/2. Área": [
+    "1. Leve",
+    "1. Daño Leve en Área"
+  ],
+  "/1. Compendio de Magia/1. Elementales/2. Área/1. Leve": [
+    "1. Makouha",
+    "10. Magaru",
+    "2. Rampage",
+    "3. Mazio",
+    "4. Maragi",
+    "5. Mabufu",
+    "6. Maeiha",
+    "7. Mafrei",
+    "8. Triple Down",
+    "9. Mapsi"
+  ],
+  "/1. Compendio de Magia/1. Elementales/3. Boosts": [
+    "Bendición",
+    "Electrico",
+    "Fuego",
+    "Hielo",
+    "Maldición",
+    "Nuclear",
+    "Psícokinesis",
+    "1. Kouha Boosts & Ailments",
+    "2. Electrico Boosts & Ailments",
+    "3. Fuego Boosts & Ailments",
+    "4. Hielo Boosts & Ailments",
+    "5. Eiha Boosts & Ailments",
+    "6. Frei Boosts & Ailments",
+    "7. Psi Boosts & Ailments",
+    "8. Viento Boosts & Ailments"
+  ],
+  "/1. Compendio de Magia/1. Elementales/3. Boosts/Bendición": [
+    "1. Chispa de Bendición",
+    "2. Impulso de Bendición",
+    "3. Ampliación de Bendición",
+    "4. Aplicación Bendita",
+    "5. Refuerzo Bendito",
+    "6. Ampliación Bendita"
+  ],
+  "/1. Compendio de Magia/1. Elementales/3. Boosts/Electrico": [
+    "1. Chispa de Eléctrico",
+    "2. Impulso de Eléctrico",
+    "3. Ampliación de Eléctrico",
+    "4. Aplicación de Corriente",
+    "5. Refuerzo de Corriente",
+    "6. Ampliación Corriente"
+  ],
+  "/1. Compendio de Magia/1. Elementales/3. Boosts/Fuego": [
+    "1. Chispa de Fuego",
+    "2. Impulso de Fuego",
+    "3. Ampliación de Fuego",
+    "4. Aplicación de Quemadura",
+    "5. Refuerzo de Quemadura",
+    "6. Ampliación de Quemadura"
+  ],
+  "/1. Compendio de Magia/1. Elementales/3. Boosts/Hielo": [
+    "1. Chispa de Hielo",
+    "2. Impulso de Hielo",
+    "3. Ampliación de Hielo",
+    "4. Aplicación de Congelación",
+    "5. Refuerzo de Congelación",
+    "6. Ampliación de Congelación"
+  ],
+  "/1. Compendio de Magia/1. Elementales/3. Boosts/Maldición": [
+    "1. Chispa de Maldición",
+    "2. Impulso de Maldición",
+    "3. Ampliación de Maldición",
+    "4. Aplicación Maldita",
+    "5. Refuerzo Maldito",
+    "6. Ampliación Maldita"
+  ],
+  "/1. Compendio de Magia/1. Elementales/3. Boosts/Nuclear": [
+    "1. Chispa Nuclear",
+    "2. Impulso Nuclear",
+    "3. Ampliación Nuclear",
+    "4. Aplicación Atómica",
+    "5. Refuerzo Atómico",
+    "6. Ampliación Atómica"
+  ],
+  "/1. Compendio de Magia/1. Elementales/3. Boosts/Psícokinesis": [
+    "1. Chispa de Psícokinesis",
+    "2. Impulso de Psícokinesis",
+    "3. Ampliación de Psícokinesis",
+    "4. Aplicación de Psique",
+    "5. Refuerzo de Psique",
+    "6. Ampliación de Psique"
+  ],
+  "/1. Compendio de Magia/2. Recuperación": [
+    "1. Curación",
+    "2. Potenciación",
+    "3. Debilitación",
+    "1. Compendio de Curaciones",
+    "2. Compendio de Potenciaciones",
+    "3. Compendio de Debilitaciones"
+  ],
+  "/1. Compendio de Magia/2. Recuperación/1. Curación": [
+    "1. Singular",
+    "2. Área"
+  ],
+  "/1. Compendio de Magia/2. Recuperación/1. Curación/1. Singular": [
+    "1. Dia",
+    "2. Diarama",
+    "3. Diarahan",
+    "4. Diarahamon"
+  ],
+  "/1. Compendio de Magia/2. Recuperación/1. Curación/2. Área": [
+    "1. Media",
+    "2. Mediarama",
+    "3. Mediaraham",
+    "4. Salvation"
+  ],
+  "/1. Compendio de Magia/2. Recuperación/2. Potenciación": [
+    "1. Singular",
+    "2. Área"
+  ],
+  "/1. Compendio de Magia/2. Recuperación/2. Potenciación/1. Singular": [
+    "1. Tarukaja",
+    "2. Sukukaja",
+    "3. Rakukaja"
+  ],
+  "/1. Compendio de Magia/2. Recuperación/2. Potenciación/2. Área": [
+    "1. Matarukaja",
+    "2. Masukukaja",
+    "3. Marakukaja"
+  ],
+  "/1. Compendio de Magia/2. Recuperación/3. Debilitación": [
+    "1. Singular",
+    "2. Área"
+  ],
+  "/1. Compendio de Magia/2. Recuperación/3. Debilitación/1. Singular": [
+    "1. Tarunda",
+    "2. Sukunda",
+    "3. Rakunda"
+  ],
+  "/1. Compendio de Magia/2. Recuperación/3. Debilitación/2. Área": [
+    "1. Matarunda",
+    "2. Masakunda",
+    "3. Marakunda"
+  ],
+  "/1. Compendio de Magia/3. Status": [
+    "1. Singular",
+    "2. Área",
+    "1. Compendio de Status"
+  ],
+  "/1. Compendio de Magia/3. Status/1. Singular": [
+    "1. Makajama",
+    "2. Icicle",
+    "3. Ominous Words",
+    "4. Dazzler",
+    "5. Marin Karin",
+    "6. Evil Touch",
+    "7. Provoke",
+    "8. Dormina"
+  ],
+  "/1. Compendio de Magia/3. Status/2. Área": [
+    "1. Makajamaon",
+    "2. Glaciar",
+    "3. Abysmal Surge",
+    "4. Nocturnal Flash",
+    "5. Sexy Dance",
+    "6. Evil Smile",
+    "7. Wage War",
+    "8. Lullaby"
+  ]
+}
