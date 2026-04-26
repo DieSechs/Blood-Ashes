@@ -15,25 +15,25 @@
 	[[1. Compendio de Magia/1. Elementales/2. Área/3. Daño Grave en Área\|3. Daño Grave en Área]] WIP
 	[[1. Compendio de Magia/1. Elementales/2. Área/4. Daño Masivo en Área\|4. Daño Masivo en Área]] WIP
 * Boosts
-	[[1. Compendio de Magia/1. Elementales/3. Boosts/1. Kouha Boosts & Ailments\|1. Kouha Boosts & Ailments]] WIP
-	[[1. Compendio de Magia/1. Elementales/3. Boosts/2. Electrico Boosts & Ailments\|2. Electrico Boosts & Ailments]] WIP
-	[[1. Compendio de Magia/1. Elementales/3. Boosts/3. Fuego Boosts & Ailments\|3. Fuego Boosts & Ailments]] WIP
-	[[1. Compendio de Magia/1. Elementales/3. Boosts/4. Hielo Boosts & Ailments\|4. Hielo Boosts & Ailments]] WIP
-	[[1. Compendio de Magia/1. Elementales/3. Boosts/5. Eiha Boosts & Ailments\|5. Eiha Boosts & Ailments]] WIP
-	[[1. Compendio de Magia/1. Elementales/3. Boosts/6. Frei Boosts & Ailments\|6. Frei Boosts & Ailments]] WIP
-	[[1. Compendio de Magia/1. Elementales/3. Boosts/7. Psi Boosts & Ailments\|7. Psi Boosts & Ailments]] WIP
-	[[1. Compendio de Magia/1. Elementales/3. Boosts/8. Viento Boosts & Ailments\|8. Viento Boosts & Ailments]] WIP
+	[[1. Compendio de Magia/1. Elementales/3. Boosts/1. Kouha Boosts & Ailments\|1. Kouha Boosts & Ailments]]
+	[[1. Compendio de Magia/1. Elementales/3. Boosts/2. Electrico Boosts & Ailments\|2. Electrico Boosts & Ailments]] 
+	[[1. Compendio de Magia/1. Elementales/3. Boosts/3. Fuego Boosts & Ailments\|3. Fuego Boosts & Ailments]] 
+	[[1. Compendio de Magia/1. Elementales/3. Boosts/4. Hielo Boosts & Ailments\|4. Hielo Boosts & Ailments]] 
+	[[1. Compendio de Magia/1. Elementales/3. Boosts/5. Eiha Boosts & Ailments\|5. Eiha Boosts & Ailments]] 
+	[[1. Compendio de Magia/1. Elementales/3. Boosts/6. Frei Boosts & Ailments\|6. Frei Boosts & Ailments]] 
+	[[1. Compendio de Magia/1. Elementales/3. Boosts/7. Psi Boosts & Ailments\|7. Psi Boosts & Ailments]] 
+	[[1. Compendio de Magia/1. Elementales/3. Boosts/8. Viento Boosts & Ailments\|8. Viento Boosts & Ailments]] 
 #### Recuperación
-* Curación Singular/Área
-* Potenciación Singular/Área
-* Debilitación Singular/Área
+[[1. Compendio de Magia/2. Recuperación/1. Compendio de Curaciones\|1. Compendio de Curaciones]]
+[[1. Compendio de Magia/2. Recuperación/2. Compendio de Potenciaciones\|2. Compendio de Potenciaciones]]
+[[1. Compendio de Magia/2. Recuperación/3. Compendio de Debilitaciones\|3. Compendio de Debilitaciones]]
+
 #### Status
-* Singular
-* Área
+[[1. Compendio de Magia/3. Status/1. Compendio de Status\|1. Compendio de Status]]
 
-Glosario
+#### Glosario
 
 
-Compendio de Persona
-WIP
+#### Compendio de Persona
+
 
